@@ -1,4 +1,4 @@
-// File: /Volumes/PandorasBox/Dev/HisDewness/ProjectChronicle/app/api/auth/[...nextauth]/route.ts
+// File: /Volumes/PandorasBox/Dev/HisDewness/project_chronicle/app/api/auth/[...nextauth]/route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

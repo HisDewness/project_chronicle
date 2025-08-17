@@ -1,4 +1,4 @@
-// File: /Volumes/PandorasBox/Dev/HisDewness/ProjectChronicle/app/layout.tsx
+// File: /Volumes/PandorasBox/Dev/HisDewness/project_chronicle/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
